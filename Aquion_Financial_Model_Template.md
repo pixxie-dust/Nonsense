@@ -1,5 +1,4 @@
 # AQUION FINANCIAL MODEL TEMPLATE
-## Copy this into Excel/Google Sheets
 
 ---
 
